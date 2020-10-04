@@ -1,0 +1,20 @@
+body {
+    color: black;
+    background-image: url('./omer-rana-ikCQLiMTokw-unsplash.jpg');
+}
+#title {
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+    font-weight: 500;
+    line-height: 1.1;
+    color: whitesmoke;
+}
+
+#expense-dropdown {
+    color: black;
+    text-align: center;
+    width: 20%;
+    align-items: center;
+    display: inline-block;
+
+}
